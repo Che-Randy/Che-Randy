@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Che-Randy
-- 👀 I’m interested in sex
-- 🌱 I’m currently learning sex
-- 💞️ I’m looking to collaborate on sex
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on building an app
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
